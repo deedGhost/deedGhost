@@ -14,9 +14,9 @@
 
 - 💤 Knock, knock.
   - Who’s there?
-  - Anjali.
-  - Anjali who?
-  - Anjali-y excited to meet you and collaborate on amazing projects!
+  - anji.
+  - anjii who?
+  - anjii-y excited to meet you and collaborate on amazing projects!
 
 <!---
 deedGhost/deedGhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
