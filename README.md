@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deedGhost
 - 👀 I’m interested in web development, machine learning, artificial intelligence, and IOT.
-- 🌱 I’m currently learning advanced technical skills and working on improving my portfolio.
+- 🌱 I’m currently learning advanced technical skills, doing some research stuff and working on improving my portfolio.
 - 💞️ I’m looking to collaborate on innovative projects, open-source contributions, and any exciting tech-related ventures.
 - 📫 How to reach me: 
   - Email: anjali17356@gmail.com
